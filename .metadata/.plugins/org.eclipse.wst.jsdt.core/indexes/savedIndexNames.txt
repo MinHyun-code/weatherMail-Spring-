@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+C:\myPracWorkspace\StructurePractice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2729449529.index
+2259458682.index
+492625226.index
+3072474548.index
+3605111064.index
+492625226.index
+2896187446.index
+1031811351.index
+2483359502.index
